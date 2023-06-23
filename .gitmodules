@@ -1,3 +1,6 @@
 [submodule "pkg3/subrepo"]
 	path = pkg3/subrepo
 	url = https://github.com/oss-review-toolkit/ort-test-data-scanner-subrepo.git
+[submodule "pkg4/subrepo"]
+	path = pkg4/subrepo
+	url = https://github.com/oss-review-toolkit/ort-test-data-scanner-subrepo.git
